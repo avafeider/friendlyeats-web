@@ -92,3 +92,5 @@ FriendlyEats.prototype.addRating = function(restaurantID, rating) {
     });
   });
 };
+
+// completed the lab
